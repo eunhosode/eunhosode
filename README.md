@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm interested in computer science and chemistry.  
+I mainly use Python and have recently started using Rust.
+
 <!--
 **eunhosode/eunhosode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
